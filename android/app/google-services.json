@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "889559261437",
+    "project_id": "al3la-restaurant",
+    "storage_bucket": "al3la-restaurant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889559261437:android:d6b805ec7a3d3a07e6de94",
+        "android_client_info": {
+          "package_name": "com.example.al3la_restaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889559261437-sq7dkca0q7r3efcmh75hg6poe7ns19eq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.al3la_restaurant",
+            "certificate_hash": "fd599cd31278dee177d13408213f8c08152cf3f9"
+          }
+        },
+        {
+          "client_id": "889559261437-a59oskq6vl3p6v6h2dmqor10311gd0fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihHiFRrGENgUtc8cuMBOHkaknL366G3A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889559261437-a59oskq6vl3p6v6h2dmqor10311gd0fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
